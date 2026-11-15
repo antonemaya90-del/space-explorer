@@ -1,5 +1,5 @@
 # Space Explorer
 
-Presentation: [SPACE EXPLORER.pptx](SPACE%20EXPLORER.pptx)
+**View the slides online:** https://antonemaya90-del.github.io/space-explorer/
 
-Open the file above and click **Download** (or "View raw") to open it in PowerPoint.
+Download the original PowerPoint: [SPACE EXPLORER.pptx](SPACE%20EXPLORER.pptx)
